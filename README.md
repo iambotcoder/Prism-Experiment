@@ -61,7 +61,7 @@ Contributions are welcome! If you'd like to improve this project or add new feat
 
 ## License
 
-This project is licensed under the iambotcode.
+This project is licensed under the iambotcoder.
 
 ---
 
