@@ -59,10 +59,6 @@ Contributions are welcome! If you'd like to improve this project or add new feat
 3. Implement your changes and thoroughly test them.
 4. Submit a pull request with a detailed description of your modifications.
 
-## License
-
-This project is licensed under the iambotcoder.
-
 ---
 
 This table of contents should help users navigate your README and find the information they need. You can customize it further to suit your project's specific requirements.
